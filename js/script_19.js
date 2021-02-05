@@ -25,4 +25,4 @@ function done() {
 // 	console.log('Я прошол этот урок ');
 // });
 
-learnJS('JavaScript', done)
+learnJS('JavaScript', done);
